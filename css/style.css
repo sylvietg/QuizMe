@@ -1,0 +1,31 @@
+
+/****************************************/
+/*										*/
+/* 	Quiz Me: Style Sheet				*/	
+/*										*/
+/****************************************/
+
+body		{margin-left: 20px; margin-right: 20px; font-family: Arial, Helvetica, sans-serif; background-image: url("http://users.encs.concordia.ca/~s_truo/A4/IMG/bg.png"); }
+section h1		{font-family: Arial, Helvetica, sans-serif; font-size: 210%; color:#3366FF;}
+section h3		{font-family: Arial, Helvetica, sans-serif; font-size: 125%; color:#383838;}
+header 		{background-image: url("http://users.encs.concordia.ca/~s_truo/A4/IMG/header.png"); background-color:#181818; height: 125px; width: 100%; float: top; border: 3px solid black collapse; margin: 0px;}
+nav 			{margin-top: 10px; font-family: "Lucida Console", Monaco, monospace; font-size: 105%; height: 598px; width: 200px; float: left; border: 3px solid black collapse;}
+section 		{padding-left: 35px; padding-top: 15px; height: 618px; border: 3px solid black collapse; margin-left: 200px; color:#383838; font-weight: bold;}
+footer 		{background-color: #181818; height: 25px; width: 100%; border: 3px solid black collapse; text-align: center; color: #F0F0F0; padding-top: 12px; font-family: "Lucida Console", Monaco, monospace; font-size: 80%;}
+nav ul 		{list-style-type: none; list-position: inside; padding-left:20px; padding-top: 15px;}
+nav ul ul 		{list-style-type: none; font-size: 90%; padding-left:10px;}
+section ul		{list-style-type: circle;}
+a			{text-decoration: none;}
+a:link		{color: #181818;}
+a:hover		{background-color: yellow;}
+a:active	{background-color: #181818; color: white;}
+#gray		{color:#383838;}
+#pink 		{color:#FF3366; font-size: 120%;}
+#orange		{color:#FF9900; font-size: 120%;}
+#mono		{font-family: "Lucida Console", Monaco, monospace; font-weight:normal;}
+#n			{font-style:italic;}
+#td3		{font-weight:normal; font-style:italic; font-size: 90%; color: #FF3366;}
+#log		{position: fixed; top: 20px; right: 40px; font-family: "Lucida Console", Monaco, monospace; font-size: 105%; color: white;}
+#bfloat		{float: right;}
+#center		{text-align: center;}
+/*1366x768	
